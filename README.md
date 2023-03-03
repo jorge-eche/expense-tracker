@@ -50,6 +50,7 @@ Users should be able to:
 - [Vite](https://vitejs.dev/) - React environment
 - [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar) - For circular progress bar component
 - [React Swipeable List](https://www.npmjs.com/package/react-swipeable-list) - For rendering the lists of expenses with swipeable features
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Language
 - [CSS3](https://www.w3.org/Style/CSS/) - For style
 - [Semantic HTML5 markup](https://www.w3.org/html/) - For the web structure
 - Flexbox
