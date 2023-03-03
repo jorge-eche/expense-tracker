@@ -34,9 +34,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the project1](./src/img/expense-tracker-screenshot1)
-![Screenshot of the project2](./src/img/expense-tracker-screenshot2)
-![Screenshot of the project3](./src/img/expense-tracker-screenshot3)
+![Screenshot of the project1](./src/img/expense-tracker-screenshot1.png)
+![Screenshot of the project2](./src/img/expense-tracker-screenshot2.png)
+![Screenshot of the project3](./src/img/expense-tracker-screenshot3.png)
 
 ### Links
 
