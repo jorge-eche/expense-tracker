@@ -47,20 +47,17 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [Vite]([https://create-react-app.dev/](https://vitejs.dev/)) - React environment
-- [Styled Components](https://styled-components.com/) - For styles
-- [CryptoCompare](https://www.cryptocompare.com/) - For the Toplist by Market Cap Full Data API
-- [Tobias Ahlin Spinkit](https://tobiasahlin.com/spinkit/) - For the Spinner
-- Semantic HTML5 markup
+- [Vite](https://vitejs.dev/) - React environment
+- [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar) - For circular progress bar component
+- [React Swipeable List](https://www.npmjs.com/package/react-swipeable-list) - For rendering the lists of expenses with swipeable features
+- [CSS3](https://www.w3.org/Style/CSS/) - For style
+- [Semantic HTML5 markup](https://www.w3.org/html/) - For the web structure
 - Flexbox
 - Mobile-first workflow
 
 ### What I learned
 
-- I could have added more than 10 cryptos or more than 5 currencies for comparison, but I think it really does not add much on functionality terms to the application, so I decided to stick to small numbers for simplicity.
-- REST APIs are so useful, there is no limit for what they can do for you and how easy it is to implement them in your projects. From face recognition APIs to cryptos quoting, your creativity and imagination are the limit here.
-- This is the first project I used Styled Components. I found it very useful as it removes vanilla CSS' specificity problems. I also liked the idea of not having CSS files all over my IDE so I will continue using it for future works. On the cons side, it can get a bit messy to read JSX files with so many custom styled components and this gets worse as the React components gets more complex.
-- How to use Spinners while the page is fetching the API data.
+- 
 
 ### If I had more time I would change this
 
