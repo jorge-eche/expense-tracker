@@ -57,16 +57,19 @@ Users should be able to:
 
 ### What I learned
 
+- This project made me really good at understanding Reac useState. On it, I have used state for the post validation of the budget (after inputing a valid budget, users can access another part of the website), also for filtering through the different expenses. For the modal window, I used state as a prompt for it to pop up and also to animate it by adding a CSS class when certain state is true. Lastly, I achieved the app reset by modifying the current state and consequently affecting the data storaged in Local Storage.
+- I learned how to add external components from the NPM Registry and apply them in personal projects. They can really boost your website's UI and UX.
+- This was one of the most difficult projects of the beginnings of my programming development and it helped me become much better pretty much at everything I already knew: React, JS, CSS and HTML.
+- How I to add variables to Local Storage and fetched them correctly,
 - 
-
 ### If I had more time I would change this
 
-- As I said in previous READMEs: Testing, testing and more testing.
-- Other than that, I am more than happy with the website and it does its job very well.
+- If I had more time I could add a data base and server side to this app so that the budget and expenses get stored in a more reliable place. At the moment, I did not feel like building a fullstack project because my goal was mainly to improve my frotend skills.
+- I would definitely use some different approach for the CSS, maybe Sass or Styled Components.
 
 ### Continued development
 
-After this website I am going to start building my Portfolio and leave theory a little bit to the side. After my Portfolio is finished I am planning to study Testing and TypeScript.
+After this website I am going to continue to further my studies on React, trying to raise the complexity of the projects I undertake. Also, I want to explore more with RESTful APIS.
 
 ## Author
 
