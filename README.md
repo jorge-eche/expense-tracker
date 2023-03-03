@@ -28,7 +28,7 @@ Users should be able to:
 - See a circular progress bar of their spent money.
 - Have their budget and expenses saved on Local Storage for later review.
 - Reset the app, thus deleting the budget and expenses.
-- Check their total, available and the amount of spent budget.
+- Check their total and available budget and the amount spent.
 - View the optimal layout depending on their device's screen size.
 - See hover states for interactive elements.
 
