@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://jorgeecheverria.netlify.app/](https://cryptos-tracker-react.netlify.app/)
+- Live Site URL: [Expense Tracker App Live](https://expenses-tracker-jee.netlify.app/)
 
 ## My process
 
